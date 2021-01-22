@@ -17,15 +17,6 @@ To install maven
 sudo apt-get install maven
 ```
 
-Compile and run App(main)
---
-
-Compile using
-
-```
-mvn install
-```
-
 Compile and run Encoder 
 --
 
