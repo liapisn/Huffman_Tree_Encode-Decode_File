@@ -26,13 +26,6 @@ Compile using
 mvn install
 ```
 
-Run main using
-
-```
-java -cp target/Assigment-1.0-SNAPSHOT.jar org.hua.App.App
-```
-
-
 Compile and run Encoder 
 --
 
